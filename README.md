@@ -126,6 +126,9 @@ If you discover any security related issues, please email 286.trants@gmail.com i
 
 ### 📖 License
 
+This software is released under the [BSD 3-Clause][link-license] License. Please see the [LICENSE](LICENSE) file
+or https://trants.me/LICENSE.txt for more information.
+
 ### ✨ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
